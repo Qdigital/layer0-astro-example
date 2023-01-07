@@ -21,6 +21,6 @@
     "@layer0/devtools": "^3.16.11",
     "@layer0/prefetch": "^3.16.11",
     "@snowpack/plugin-dotenv": "^2.1.0",
-    "astro": "^0.20.12"
+    "astro": "^1.9.1"
   }
 }
